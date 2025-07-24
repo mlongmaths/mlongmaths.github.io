@@ -1,6 +1,6 @@
 baseURL = 'https://mlongmaths.github.io/'
 languageCode = 'fr-fr'
-title = 'MP2I & MPSI'
+title = 'MP2I & MPSI (LMM)'
 theme = 'ananke'
 [caches]
   [caches.images]
