@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'fr-fr'
 title = 'MP2I - MPSI -- Lycée la Martinière Monplaisir'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
