@@ -1,6 +1,6 @@
 baseURL = 'https://mlongmaths.github.io/'
 languageCode = 'fr-fr'
-title = 'MP2I - MPSI -- Lycée la Martinière Monplaisir'
+title = 'MP2I & MPSI -- Lycée la Martinière Monplaisir'
 theme = 'ananke'
 [caches]
   [caches.images]
